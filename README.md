@@ -8,4 +8,4 @@ Este projeto apresenta uma análise exploratória do conjunto de dados obtido do
 
 Gustavo Souza Francisco da Costa. 
 
-[https://www.linkedin.com/in/wmazoni](https://www.linkedin.com/in/gustavo-costa-abb6ab20b/)https://www.linkedin.com/in/gustavo-costa-abb6ab20b/
+https://www.linkedin.com/in/gustavo-costa-abb6ab20b/
